@@ -1,0 +1,23 @@
+# Ignore Data files
+*.csv
+~$*.xl*
+*.JSON
+*.txt
+
+# Ignore Documentation
+*.docx
+*.pdf
+*.msg
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
